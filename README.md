@@ -31,7 +31,7 @@
 <h3 align="left">👨‍💻 About Me</h3>
 
 <p align="left">
-I'm a <b>Full Stack Developer</b> from India with <b>1.6 years of experience</b> in building scalable and high-performance web applications.
+I'm a <b>Full Stack Developer</b> from India with <b>2+ years of experience</b> in building scalable and high-performance web applications.
 <br/><br/>
 - 🔭 Currently working as a <b>Full Stack Developer</b>  
 - 🌱 Working with <b>MERN & MEAN Stack</b>  

@@ -93,5 +93,5 @@ I'm a <b>Full Stack Developer</b> from India with <b>1.6 years of experience</b>
 
 - 💼 LinkedIn: https://www.linkedin.com/in/lakshmanan-m-fullstackdeveloper/
 - 💻 GitHub: https://github.com/lakshmanandev
-- 📄 Resume: https://drive.google.com/file/d/1vwcib6CZ1XSqW36-ykRCRHcmJIyjEw1E/view
+- 📄 Resume: [https://drive.google.com/file/d/1vwcib6CZ1XSqW36-ykRCRHcmJIyjEw1E/view](https://drive.google.com/file/d/14REcTxlUG8IwqBdi0hw8Cb6s4JHMCvvI/view?usp=sharing)
 - 📱 Phone: +91 8144203487
